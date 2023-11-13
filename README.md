@@ -18,9 +18,4 @@ This repository contains a sample Cucumber API hybrid framework implemented with
 - Maven (version X.X or higher)
 - IDE (Eclipse, IntelliJ, etc.)
 
-### Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/cucumber-api-hybrid-framework.git
