@@ -1,4 +1,4 @@
-# Cucumber API Hybrid Framework with Rest Assured
+# Cucumber Data Driven Framework with Rest Assured API 
 
 This repository contains a sample Cucumber API hybrid framework implemented with the Rest Assured library. The framework is designed to provide a structured and scalable approach for API testing using Cucumber BDD (Behavior-Driven Development).
 
